@@ -1,0 +1,32 @@
+aid: pulsedive
+name: Pulsedive
+description: "Scan, search and collect threat intelligence data in real-time"
+url: https://pulsedive.com/api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Security"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Security
+  - Public APIs
+apis:
+  - name: Pulsedive
+    description: "Scan, search and collect threat intelligence data in real-time"
+    humanURL: https://pulsedive.com/api/
+    baseURL: https://pulsedive.com/api/
+    tags:
+      - Security
+    properties:
+      - type: Documentation
+        url: https://pulsedive.com/api/
+common:
+  - type: Website
+    url: https://pulsedive.com/api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
