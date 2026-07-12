@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://pulsedive.com/api/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/pulsedive-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pulsedive-domain-security.yml
   - type: Website
     url: https://pulsedive.com/api/
   - type: PublicAPIsListing
