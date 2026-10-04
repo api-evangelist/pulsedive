@@ -39,7 +39,6 @@ apis:
   - name: Pulsedive
     description: "Scan, search and collect threat intelligence data in real-time"
     humanURL: https://pulsedive.com/api/
-    baseURL: https://pulsedive.com/api/
     tags:
       - Security
     properties:
